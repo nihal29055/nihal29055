@@ -11,10 +11,13 @@ I'm a passionate developer, entrepreneur, and content creator, running multiple 
 
 ## About Me
 
-I’m the founder of **Urbandeals**, an e-commerce store that sells printed T-shirts, and **TechStudio**, a creative agency that offers services in web development, logo design, thumbnail creation, and social media management.
+🚀 Full-Stack Developer | 💼 Founder of TechStudio | 🌌 NASA Space Apps Challenge 2024 Finalist | 💡 Tech Innovator
 
-I also enjoy creating educational content, such as my ongoing 30-day video series about **NASA’s PACE mission**, where I dive into topics like cloud infrastructure, scaling solutions, and green cloud initiatives that align with sustainability goals for smart cities.
+As a dedicated **full-stack developer** and the **founder** of **TechStudio*, I am passionate about harnessing technology to create impactful solutions. With expertise in developing robust and scalable applications, I thrive on tackling complex challenges across various domains.
 
+I am honored to have been a **finalist**in the *NASA Space Apps Challenge'24*, where I showcased my skills in innovation and problem-solving. My commitment to leveraging technology for positive change drives my ambition to lead in the tech industry and contribute to projects that make a difference.
+
+Let’s connect to explore opportunities for collaboration and innovation in the tech space!
 ## Skills
 
 Here’s a snapshot of my technical expertise:
@@ -27,14 +30,11 @@ Here’s a snapshot of my technical expertise:
 
 ## Current Projects
 
-### Urbandeals
-A growing online store offering custom printed T-shirts with unique and trendy designs.
-
 ### TechStudio
-A creative agency focused on providing digital services, including web development, branding, and social media strategy for businesses.
+TechStudio is a technology consulting and development agency focused on delivering innovative, cutting-edge solutions.
 
 ### PACE Explorer
-A 30-day video series exploring **NASA’s PACE mission**, focusing on its technology, cloud infrastructure, and sustainability efforts.
+Pace Explorer is an interactive, web-based platform designed to provide students and educators access to NASA's PACE (Plankton, Aerosol, Cloud, ocean Ecosystem) mission data. The platform aims to enhance ocean and climate literacy through engaging educational modules, data visualizations, and real-world simulations.
 
 ## How to Reach Me
 
