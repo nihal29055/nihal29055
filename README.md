@@ -1,6 +1,6 @@
 # Hi, I'm Nihal Yadav! 👋
 
-I'm a passionate developer, entrepreneur, and content creator, running multiple projects in the tech and creative industries. I love working on innovative ideas and helping businesses succeed in the digital space. Below is a little more about my background, skills, and projects.
+🚀 Full-Stack Developer | 💼 Founder of TechStudio | 🌌 NASA Space Apps Challenge'24 Finalist | 💡 Tech Innovator
 
 ## Table of Contents
 
@@ -11,11 +11,9 @@ I'm a passionate developer, entrepreneur, and content creator, running multiple 
 
 ## About Me
 
-🚀 Full-Stack Developer | 💼 Founder of TechStudio | 🌌 NASA Space Apps Challenge 2024 Finalist | 💡 Tech Innovator
+As a dedicated **full-stack developer** and the **founder** of *TechStudio*, I am passionate about harnessing technology to create impactful solutions. With expertise in developing robust and scalable applications, I thrive on tackling complex challenges across various domains.
 
-As a dedicated **full-stack developer** and the **founder** of **TechStudio*, I am passionate about harnessing technology to create impactful solutions. With expertise in developing robust and scalable applications, I thrive on tackling complex challenges across various domains.
-
-I am honored to have been a **finalist**in the *NASA Space Apps Challenge'24*, where I showcased my skills in innovation and problem-solving. My commitment to leveraging technology for positive change drives my ambition to lead in the tech industry and contribute to projects that make a difference.
+I am honored to have been a **finalist** in the *NASA Space Apps Challenge'24*, where I showcased my skills in innovation and problem-solving. My commitment to leveraging technology for positive change drives my ambition to lead in the tech industry and contribute to projects that make a difference.
 
 Let’s connect to explore opportunities for collaboration and innovation in the tech space!
 ## Skills
