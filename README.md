@@ -39,7 +39,7 @@ Pace Explorer is an interactive, web-based platform designed to provide students
 - **Email**: yadavnihal544@gmail.com
 - **LinkedIn**: (https://linkedin.com/in/nihal-yadav2)
 - **GitHub**: (https://github.com/nihal29055)
-- **Website**: (https://urbanndeals.in)
+- **Website**: (www.techstudio.org.in) Company Website
 
 Let’s connect and collaborate on exciting tech and creative projects!
 
