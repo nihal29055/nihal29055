@@ -1,6 +1,6 @@
 # Hi, I'm Nihal Yadav! 👋
 
-🚀 Full-Stack Developer | 💼 Founder of TechStudio | 🌌 NASA Space Apps Challenge'24 Finalist | 💡 Tech Innovator
+🚀 MERN-Stack Developer | 💼 Founder of TechStudio | 🌌 NASA Space Apps Challenge'24 Finalist | 💡 Tech Innovator
 
 ## Table of Contents
 
