@@ -1,21 +1,76 @@
-# Hi, I'm Nihal Yadav! 👋
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
-🚀 MERN-Stack Developer | 💼 Founder of TechStudio | 🌌 NASA Space Apps Challenge'24 Finalist | 💡 Tech Innovator
+###
 
-## Table of Contents
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+</div>
 
-1. [About Me](#about-me)
-2. [Skills](#skills)
-3. [Current Projects](#current-projects)
-4. [How to Reach Me](#how-to-reach-me)
+###
 
-## About Me
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+</div>
 
-As a dedicated **full-stack developer** and the **founder** of *TechStudio*, I am passionate about harnessing technology to create impactful solutions. With expertise in developing robust and scalable applications, I thrive on tackling complex challenges across various domains.
+###
 
-I am honored to have been a **finalist** in the *NASA Space Apps Challenge'24*, where I showcased my skills in innovation and problem-solving. My commitment to leveraging technology for positive change drives my ambition to lead in the tech industry and contribute to projects that make a difference.
+<h1 align="center">Hey!👋 Nihal here </h1>
+<h2 align="centre">🚀 MERN-Stack Developer | 💼 Founder of TechStudio | 🌌 NASA Space Apps Challenge'24 Finalist | 💡 Tech Innovator </h3>
 
-Let’s connect to explore opportunities for collaboration and innovation in the tech space!
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+<p>Founder of TechStudio | Co-Founder of NM Coder | MERN Stack Developer | Tech Educator
+
+Passionate about building innovative tech solutions, I specialize in web/app development, AI/ML, and cloud solutions. As the founder of TechStudio, I lead software development projects, and through NM Coder, I guide students in coding and development. Currently, I'm working on launching Gossip.com, a real-time text-based chat platform for trending discussions. </p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nihal29055&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nihal29055&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
 ## Skills
 
 Here’s a snapshot of my technical expertise:
@@ -28,18 +83,23 @@ Here’s a snapshot of my technical expertise:
 
 ## Current Projects
 
-### TechStudio
-TechStudio is a technology consulting and development agency focused on delivering innovative, cutting-edge solutions.
+1. Gossip.com
+🚀 A real-time text-based chat platform for trending discussions. Gossip.com enables spontaneous conversations on trending topics with interest-based matching, threaded replies, and anonymous participation. Currently in development with a focus on web and mobile deployment.
 
-### PACE Explorer
-Pace Explorer is an interactive, web-based platform designed to provide students and educators access to NASA's PACE (Plankton, Aerosol, Cloud, ocean Ecosystem) mission data. The platform aims to enhance ocean and climate literacy through engaging educational modules, data visualizations, and real-world simulations.
+2. MedReport
+🩺 A healthcare report management platform built with React, Vite, and TypeScript. MedReport allows users to upload, track, and analyze medical reports, set medication reminders, and consult experts—all in one place.
+
+3. Library Management System
+📚 A Python and Tkinter-based Library Management System. This project streamlines book tracking, member management, and borrowing processes for libraries, offering an intuitive GUI and database integration.
+
+4. LMS for NM Coding Institute
+💻 A Learning Management System (LMS) for NM Coding Institute. Designed to enhance online learning, this platform provides structured courses, assignments, and progress tracking for students.
 
 ## How to Reach Me
 
 - **Email**: yadavnihal544@gmail.com
 - **LinkedIn**: (https://linkedin.com/in/nihal-yadav2)
 - **GitHub**: (https://github.com/nihal29055)
-- **Website**: (www.techstudio.org.in) Company Website
 
 Let’s connect and collaborate on exciting tech and creative projects!
 
