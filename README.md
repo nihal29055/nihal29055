@@ -19,7 +19,7 @@
 ###
 
 <h1 align="center">Hey!👋 Nihal here </h1>
-<h2 align="centre">🚀 MERN-Stack Developer | 💼 Founder of TechStudio | 🌌 NASA Space Apps Challenge'24 Finalist | 💡 Tech Innovator </h3>
+<h2 align="centre">🚀 MERN-Stack Developer | 💼 Founder of Nuvance Technologies | 🌌 NASA Space Apps Challenge'24 Finalist | 💡 Tech Innovator </h3>
 
 
 ###
