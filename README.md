@@ -25,7 +25,7 @@
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
-<p>Founder of TechStudio | Co-Founder of NM Coder | MERN Stack Developer | Tech Educator
+<p>Founder of Nuvance Technologies | Co-Founder of NM Coder | MERN Stack Developer | Tech Educator
 
 Passionate about building innovative tech solutions, I specialize in web/app development, AI/ML, and cloud solutions. As the founder of TechStudio, I lead software development projects, and through NM Coder, I guide students in coding and development. Currently, I'm working on launching Gossip.com, a real-time text-based chat platform for trending discussions. </p>
 
