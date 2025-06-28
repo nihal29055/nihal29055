@@ -21,13 +21,12 @@
 <h1 align="center">Hey!👋 Nihal here </h1>
 <h2 align="centre">🚀 MERN-Stack Developer | 💼 Founder of Nuvance Technologies | 🌌 NASA Space Apps Challenge'24 Finalist | 💡 Tech Innovator </h3>
 
-
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
 <p>Founder of Nuvance Technologies | Co-Founder of NM Coder | MERN Stack Developer | Tech Educator
 
-Passionate about building innovative tech solutions, I specialize in web/app development, AI/ML, and cloud solutions. As the founder of TechStudio, I lead software development projects, and through NM Coder, I guide students in coding and development. Currently, I'm working on launching Gossip.com, a real-time text-based chat platform for trending discussions. </p>
+Passionate about building innovative tech solutions, I specialize in web/app development, AI/ML, and cloud solutions. As the founder of Nuvance Technologies, I lead software development projects, I guide students in coding and development. Currently, I'm working on launching Gossip.com, a real-time text-based chat platform for trending discussions. </p>
 
 ###
 
@@ -73,56 +72,55 @@ Passionate about building innovative tech solutions, I specialize in web/app dev
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
 </div>
 
-###
+
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nihal29055&theme=algolia&no-frame=true&margin-w=15"/>
+</p>
+
 
 ###
 
-<h3 align="left">🔥   My Stats :
+<h3 align="left">🔥   My Stats :</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nihal29055&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nihal29055&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-</h3>
-
-###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=nihal29055&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
+
 ###
+
 ## Skills
 
 Here’s a snapshot of my technical expertise:
 
-- **Programming Languages**: JavaScript, Python, HTML, CSS
-- **Frameworks & Libraries**: React, Node.js, Express
-- **Design Tools**: Adobe Photoshop, Figma
-- **Business Tools**: Shopify, WooCommerce, WordPress
+- **Programming Languages**: JavaScript, Python, HTML, CSS  
+- **Frameworks & Libraries**: React, Node.js, Express  
+- **Design Tools**: Adobe Photoshop, Figma  
+- **Business Tools**: Shopify, WooCommerce, WordPress  
 - **Other**: Remote work strategies, e-commerce growth, digital marketing
 
 ## Current Projects
 
-1. Gossip.com
+1. **Gossip.com**  
 🚀 A real-time text-based chat platform for trending discussions. Gossip.com enables spontaneous conversations on trending topics with interest-based matching, threaded replies, and anonymous participation. Currently in development with a focus on web and mobile deployment.
 
-2. MedReport
+2. **MedReport**  
 🩺 A healthcare report management platform built with React, Vite, and TypeScript. MedReport allows users to upload, track, and analyze medical reports, set medication reminders, and consult experts—all in one place.
 
-3. Library Management System
+3. **Library Management System**  
 📚 A Python and Tkinter-based Library Management System. This project streamlines book tracking, member management, and borrowing processes for libraries, offering an intuitive GUI and database integration.
-
-4. LMS for NM Coding Institute
-💻 A Learning Management System (LMS) for NM Coding Institute. Designed to enhance online learning, this platform provides structured courses, assignments, and progress tracking for students.
-
-##
-
 
 ## How to Reach Me
 
-- **Email**: yadavnihal544@gmail.com
-- **LinkedIn**: (https://linkedin.com/in/nihal-yadav2)
-- **GitHub**: (https://github.com/nihal29055)
+- **Email**: yadavnihal544@gmail.com  
+- **LinkedIn**: [https://linkedin.com/in/nihal-yadav2](https://linkedin.com/in/nihal-yadav2)  
+- **GitHub**: [https://github.com/nihal29055](https://github.com/nihal29055)  
 
 Let’s connect and collaborate on exciting tech and creative projects!
-
