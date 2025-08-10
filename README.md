@@ -30,7 +30,7 @@ Passionate about building innovative tech solutions, I specialize in web/app dev
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Language & tools</h3>
 
 ###
 
