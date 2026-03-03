@@ -1,126 +1,75 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
-
-###
-
-<h1 align="center">Hey!👋 Nihal here </h1>
-<h2 align="centre">🚀 MERN-Stack Developer | 💼 Founder of Nuvance Technologies | 🌌 NASA Space Apps Challenge'24 Finalist | 💡 Tech Innovator </h3>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-<p>Founder of Nuvance Technologies | Co-Founder of NM Coder | MERN Stack Developer | Tech Educator
-
-Passionate about building innovative tech solutions, I specialize in web/app development, AI/ML, and cloud solutions. As the founder of Nuvance Technologies, I lead software development projects, I guide students in coding and development. Currently, I'm working on launching Gossip.com, a real-time text-based chat platform for trending discussions. </p>
-
-###
-
-<h3 align="left">🛠 Language & tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-original.svg" height="40" alt="codepen logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-</div>
-
-
-
-### 🏆 GitHub Trophies
+<h1 align="center">Nihal Yadav</h1>
+<h4 align="center">Software Engineer | Founder @ Nuvance Technologies | Tech Educator</h4>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nihal29055&theme=algolia&no-frame=true&margin-w=15"/>
+  <a href="https://linkedin.com/in/nihal-yadav2" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:yadavnihal544@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://youtube.com/@StudyWithNihal" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
 </p>
 
+---
 
-###
+### 🚀 Executive Summary
 
-<h3 align="left">🔥   My Stats :</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nihal29055&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nihal29055&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+I am a Software Engineer and Tech Entrepreneur specializing in backend architecture, system design, and MERN stack development. As the Founder of Nuvance Technologies, I am currently architecting a blockchain-based core banking settlement layer and driving technical innovation. I combine my academic foundation in Data Science with hands-on experience in cloud infrastructure, application development, and technical leadership.
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=nihal29055&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+- 🎓 **Education:** B.Tech in Data Science, Gyan Ganga Institute of Technology and Sciences (Expected 2027)
+- 💡 **Interests:** Distributed Systems, Cloud Computing (AWS), Competitive Programming (Codeforces), and AI/ML Integrations.
 
+---
 
-###
+### 💻 Core Competencies
 
-## Skills
+* **Languages:** TypeScript, JavaScript, Python, C++, Dart
+* **Frontend & Mobile:** React.js, Flutter, Tailwind CSS
+* **Backend & Architecture:** Node.js, Express.js, RESTful APIs, System Design
+* **Databases & Cloud:** MongoDB, Firebase, AWS, Docker
+* **Tools & Practices:** Git, Agile/Scrum, CI/CD, Technical Documentation
 
-Here’s a snapshot of my technical expertise:
+---
 
-- **Programming Languages**: JavaScript, Python, HTML, CSS  
-- **Frameworks & Libraries**: React, Node.js, Express  
-- **Design Tools**: Adobe Photoshop, Figma  
-- **Business Tools**: Shopify, WooCommerce, WordPress  
-- **Other**: Remote work strategies, e-commerce growth, digital marketing
+### 🏗️ Featured Architecture & Projects
 
-## Current Projects
+**[Adhar Setu]** | *Current Active Development*
+> Next-generation application development focusing on secure and scalable infrastructure.
 
-1. **Gossip.com**  
-🚀 A real-time text-based chat platform for trending discussions. Gossip.com enables spontaneous conversations on trending topics with interest-based matching, threaded replies, and anonymous participation. Currently in development with a focus on web and mobile deployment.
+**[Virtual Operations Consultant]** > Designed and mapped workflows for a comprehensive application aimed at helping SMEs achieve operational excellence and streamline their business processes.
 
-2. **MedReport**  
-🩺 A healthcare report management platform built with React, Vite, and TypeScript. MedReport allows users to upload, track, and analyze medical reports, set medication reminders, and consult experts—all in one place.
+**[Gossip.com]** > Developed a real-time, text-based chat platform featuring interest-based matching, threaded replies, and anonymous participation using WebSocket integrations.
 
-3. **Library Management System**  
-📚 A Python and Tkinter-based Library Management System. This project streamlines book tracking, member management, and borrowing processes for libraries, offering an intuitive GUI and database integration.
+**[Social Media Application]** > Built a high-performance cross-platform mobile application using Dart, Flutter, and Firebase, currently undergoing pre-launch testing for the Google Play Store.
 
-## How to Reach Me
+**[MedReport]** *(Team Project)*
+> Engineered a healthcare report management platform utilizing React, Vite, and TypeScript. Implemented features for tracking medical records, setting reminders, and facilitating expert consultations.
 
-- **Email**: yadavnihal544@gmail.com  
-- **LinkedIn**: [https://linkedin.com/in/nihal-yadav2](https://linkedin.com/in/nihal-yadav2)  
-- **GitHub**: [https://github.com/nihal29055](https://github.com/nihal29055)  
+---
 
-Let’s connect and collaborate on exciting tech and creative projects!
+### 🌍 Leadership & Community Impact
+
+* **Founder, Nuvance Technologies:** Leading a fintech venture and multiple client projects, overseeing full-lifecycle software development and business strategy.
+* **City Lead, GirlScript Foundation:** Spearheading the Web3 x AI Bootcamp for Jabalpur, managing venues, partnerships, and technical curriculum delivery.
+* **Organizer, NASA Space Apps Challenge '24:** Orchestrated the regional hackathon, managing sponsor communications, team coordinations, and promotional strategy.
+* **Founder, Tech & Innovation Club:** Established a collegiate community to foster technical growth and collaborative building.
+* **Alumnus, McKinsey Forward Program:** Completed advanced professional development and leadership training.
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nihal29055&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihal29055&layout=compact&theme=github_dark&hide_border=true&langs_count=5" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=nihal29055&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+</p>
