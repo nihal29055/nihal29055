@@ -1,5 +1,5 @@
 <h1 align="center">Nihal Yadav</h1>
-<h4 align="center">Software Engineer | Founder @ Nuvance Technologies | Tech Educator</h4>
+<h4 align="center">Software Engineer | Founder @ Nuvance Technologies | Data Analyst/Scientist </h4>
 
 <p align="center">
   <a href="https://linkedin.com/in/nihal-yadav2" target="_blank">
